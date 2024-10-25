@@ -1,0 +1,15 @@
+.maindiv {
+display: flex;
+justify-content: space-around;
+padding-top: 10%;
+}
+.div1 {
+    padding-top: 50px;
+    gap: 50px;
+    text-align: center;
+    border: 2px, solid, rgb(0, 0, 0);
+}
+.p1{
+    font-size: 60px;
+    font-weight: 600px;
+}
